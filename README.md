@@ -1,53 +1,81 @@
-# Hi, I'm Ahmed Alwadei 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm Ahmed — a passionate software developer who loves building clean, useful, and maintainable software. I enjoy learning new technologies and turning ideas into real projects.
+  <!-- Header & Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ahmed+Alwadei+%F0%9F%91%8B;Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
----
+  <!-- Intro Text -->
+  <h3>Building scalable, user-centric software solutions from Saudi Arabia 🇸🇦</h3>
+  
+  <p align="center">
+    <a href="https://github.com/AhmedAlwadei">
+      <img src="https://komarev.com/ghpvc/?username=AhmedAlwadei&label=Profile%20Views&color=0e75b6&style=flat" alt="AhmedAlwadei" />
+    </a>
+  </p>
 
-## 🔭 About Me
-- Location: Saudi Arabia
-- Currently learning: Modern web development and cloud-native architectures
-- Interests: Web apps, APIs, automation, open-source collaboration, and continuous learning
+  <p>
+     I am a software engineer passionate about engineering <b>robust web applications</b> and <b>cloud-native architectures</b>. My focus is on writing clean, maintainable code and solving complex problems through automation and modern tech stacks.
+  </p>
 
----
+  <br />
 
-## 💡 Skills & Technologies
-- Languages: JavaScript, TypeScript, Python, HTML, CSS
-- Frameworks & Libraries: React, Node.js, Express
-- Databases: MongoDB, PostgreSQL
-- Tools & Platforms: Git, Docker, GitHub Actions, VS Code
-- Cloud & DevOps: AWS (EC2, S3), basic CI/CD
-
----
-
-## 🚀 Notable Projects
-Check my repositories below for project details — here are some highlights you might want to see:
-- Project A — Short description of what it does and tech used.
-- Project B — Short description of what it does and tech used.
-- Project C — Short description of what it does and tech used.
-
-(Replace the placeholders above with your specific project names and short descriptions.)
-
----
-
-## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Twitter: https://twitter.com/your-twitter
-- Website / Portfolio: https://your-website.example
-
-(Replace the contact placeholders with your real links.)
+  <!-- Social Links with Icons -->
+  <p>
+    <a href="mailto:your.email@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAlwadei&show_icons=true&theme=radical)
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+| **Frontend** | **Backend** | **DevOps & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" /> | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> |
+
+</div>
 
 ---
 
-## 🤝 Let's Collaborate
-I'm open to contributions, collaborations, and interesting opportunities. Feel free to open an issue or send me a message.
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Project Name A** | A brief, high-impact description. Example: *A real-time chat application handling 10k+ concurrent connections.* | `React` `Node.js` `Socket.io` |
+| **Project Name B** | Description of the problem you solved. Example: *Automated cloud infrastructure provisioning tool.* | `Python` `AWS` `Terraform` |
+| **Project Name C** | What makes this unique? Example: *E-commerce dashboard with predictive analytics.* | `TypeScript` `Next.js` `Postgres` |
 
 ---
 
-Thanks for visiting my profile — looking forward to connecting!
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlwadei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlwadei&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAlwadei&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <sub><i>"The best code is no code at all."</i> — Automation enthusiast</sub>
+</div>
