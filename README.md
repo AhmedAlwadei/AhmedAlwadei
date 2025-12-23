@@ -53,11 +53,6 @@
 
 ---
 
-
-
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
