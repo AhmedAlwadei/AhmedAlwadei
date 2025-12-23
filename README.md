@@ -53,13 +53,8 @@
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Project Name A** | A brief, high-impact description. Example: *A real-time chat application handling 10k+ concurrent connections.* | `React` `Node.js` `Socket.io` |
-| **Project Name B** | Description of the problem you solved. Example: *Automated cloud infrastructure provisioning tool.* | `Python` `AWS` `Terraform` |
-| **Project Name C** | What makes this unique? Example: *E-commerce dashboard with predictive analytics.* | `TypeScript` `Next.js` `Postgres` |
+
 
 ---
 
